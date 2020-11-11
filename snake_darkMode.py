@@ -13,7 +13,7 @@ high_score = 0
 # Set up the screen
 window = turtle.Screen()
 window.title("Hadik")
-window.bgcolor("#2a2a2a")
+window.bgcolor("black")
 window.setup(width=600, height=600)
 window.tracer(0)  # Turns off the screen updates
 
